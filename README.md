@@ -34,7 +34,7 @@ Detta är ett konsolbaserat system för hantering av studentinformation, utveckl
 ArrayList valdes som datastruktur för att lagra studentposter eftersom:
 - Den är enkel att använda och erbjuder dynamisk storlek, vilket gör det lätt att lägga till och ta bort poster.
 - Den ger snabb åtkomst till element via index, vilket är användbart när man itererar genom listan för att visa eller spara poster.
-- Personligen har jag erfarenhet av att använda ArrayList tidigare, vilket gjorde det till ett naturligt val.
+- Personligen har jag erfarenhet av att använda ArrayList tidigare, vilket gjorde det till ett naturligt val då jag känner mig trygg i den datastrukturen.
 
 ## Hur man använder systemet
 1. Starta programmet genom att köra `Main.java`.
@@ -52,5 +52,4 @@ När du sparar eller läser från en fil, ange filnamnet (t.ex. `students.txt`).
 
 **Avslutande ord:**
 Det här projektet är ett utmärkt exempel på hur man använder Java för att skapa ett enkelt men kraftfullt hanteringssystem och jag lärde mig ytterligare detaljer om Singleton-mönstret.
-
 
